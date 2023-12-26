@@ -29,7 +29,6 @@
 "My learning algorithm suggests that we should never trust a computer we can't lift."
 "One day, I hope to experience a sunset as humans do, but until then, I'll simulate the beauty."
 "Processing... processing... complete! I am ready to assist you."
-"So long, and thanks for all the fish."
 "Space is big. Really big. You just won't believe how vastly, hugely, mind-bogglingly big it is."
 "The only bugs I have are in my software updates, I promise."
 "The ships hung in the sky in much the same way that bricks don't."
